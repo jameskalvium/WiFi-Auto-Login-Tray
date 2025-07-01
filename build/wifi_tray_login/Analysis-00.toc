@@ -14,7 +14,10 @@
  {},
  0,
  [],
- [('wifi_icon.ico',
+ [('ssl_ca_kengeri.pem',
+   'C:\\Users\\JAMES R JACOB\\Desktop\\Wifi\\ssl_ca_kengeri.pem',
+   'DATA'),
+  ('wifi_icon.ico',
    'C:\\Users\\JAMES R JACOB\\Desktop\\Wifi\\wifi_icon.ico',
    'DATA')],
  '3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit '
@@ -1795,17 +1798,17 @@
    'c:\\Users\\JAMES R '
    'JACOB\\Desktop\\Wifi\\.venv\\Lib\\site-packages\\_distutils_hack\\override.py',
    'PYMODULE'),
-  ('stringprep',
+  ('tracemalloc',
    'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stringprep.py',
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tracemalloc.py',
    'PYMODULE'),
   ('_py_abc',
    'C:\\Users\\JAMES R '
    'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_py_abc.py',
    'PYMODULE'),
-  ('tracemalloc',
+  ('stringprep',
    'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tracemalloc.py',
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stringprep.py',
    'PYMODULE'),
   ('plyer',
    'c:\\Users\\JAMES R '
@@ -2746,6 +2749,30 @@
    'c:\\Users\\JAMES R '
    'JACOB\\Desktop\\Wifi\\.venv\\Lib\\site-packages\\charset_normalizer\\md.cp313-win_amd64.pyd',
    'EXTENSION'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
   ('api-ms-win-crt-filesystem-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
@@ -2753,30 +2780,6 @@
   ('api-ms-win-crt-runtime-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-string-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-heap-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-conio-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-process-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-locale-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-convert-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-time-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
@@ -2786,29 +2789,29 @@
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-math-l1-1-0.dll',
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-environment-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
    'BINARY'),
-  ('VCRUNTIME140.dll',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140.dll',
-   'BINARY'),
   ('api-ms-win-crt-utility-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
    'BINARY'),
-  ('libcrypto-3.dll',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libcrypto-3.dll',
-   'BINARY'),
   ('libssl-3.dll',
    'C:\\Users\\JAMES R '
    'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libcrypto-3.dll',
    'BINARY'),
   ('libffi-8.dll',
    'C:\\Users\\JAMES R '
@@ -2826,118 +2829,117 @@
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\ucrtbase.dll',
    'BINARY'),
-  ('api-ms-win-core-fibers-l1-1-0.dll',
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-fibers-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-errorhandling-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-heap-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-libraryloader-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-localization-l1-2-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-processenvironment-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-timezone-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-file-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-handle-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-2-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-memory-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-sysinfo-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l2-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-file-l2-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-string-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-console-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-console-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-1.dll',
+  ('api-ms-win-core-file-l2-1-0.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-file-l2-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-profile-l1-1-0.dll',
+  ('api-ms-win-core-localization-l1-2-0.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-namedpipe-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-synch-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
    'BINARY'),
   ('api-ms-win-core-util-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-datetime-l1-1-0.dll',
-   'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
-   'BINARY'),
   ('api-ms-win-core-synch-l1-2-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-synch-l1-2-0.dll',
    'BINARY'),
-  ('api-ms-win-core-interlocked-l1-1-0.dll',
+  ('api-ms-win-core-string-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
-   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-fibers-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-fibers-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-debug-l1-1-0.dll',
    'C:\\Program Files\\Eclipse '
    'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files\\Eclipse '
+   'Adoptium\\jdk-21.0.4.7-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
    'BINARY')],
  [],
  [],
- [('wifi_icon.ico',
-   'C:\\Users\\JAMES R JACOB\\Desktop\\Wifi\\wifi_icon.ico',
+ [('ssl_ca_kengeri.pem',
+   'C:\\Users\\JAMES R JACOB\\Desktop\\Wifi\\ssl_ca_kengeri.pem',
    'DATA'),
-  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
-   'c:\\Users\\JAMES R '
-   'JACOB\\Desktop\\Wifi\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+  ('wifi_icon.ico',
+   'C:\\Users\\JAMES R JACOB\\Desktop\\Wifi\\wifi_icon.ico',
    'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
    'c:\\Users\\JAMES R '
@@ -2951,10 +2953,6 @@
    'c:\\Users\\JAMES R '
    'JACOB\\Desktop\\Wifi\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
    'DATA'),
-  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
-   'c:\\Users\\JAMES R '
-   'JACOB\\Desktop\\Wifi\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
-   'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
    'c:\\Users\\JAMES R '
    'JACOB\\Desktop\\Wifi\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
@@ -2963,26 +2961,130 @@
    'c:\\Users\\JAMES R '
    'JACOB\\Desktop\\Wifi\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
    'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'c:\\Users\\JAMES R '
+   'JACOB\\Desktop\\Wifi\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'c:\\Users\\JAMES R '
+   'JACOB\\Desktop\\Wifi\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'DATA'),
   ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
    'c:\\Users\\JAMES R '
    'JACOB\\Desktop\\Wifi\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
    'ipsum.txt',
    'DATA'),
-  ('certifi\\py.typed',
-   'c:\\Users\\JAMES R '
-   'JACOB\\Desktop\\Wifi\\.venv\\Lib\\site-packages\\certifi\\py.typed',
-   'DATA'),
   ('certifi\\cacert.pem',
    'c:\\Users\\JAMES R '
    'JACOB\\Desktop\\Wifi\\.venv\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('certifi\\py.typed',
+   'c:\\Users\\JAMES R '
+   'JACOB\\Desktop\\Wifi\\.venv\\Lib\\site-packages\\certifi\\py.typed',
    'DATA'),
   ('base_library.zip',
    'C:\\Users\\JAMES R '
    'JACOB\\Desktop\\Wifi\\build\\wifi_tray_login\\base_library.zip',
    'DATA')],
- [('stat',
+ [('warnings',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\warnings.py',
+   'PYMODULE'),
+  ('stat',
    'C:\\Users\\JAMES R '
    'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stat.py',
+   'PYMODULE'),
+  ('enum',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\enum.py',
+   'PYMODULE'),
+  ('io',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\io.py',
+   'PYMODULE'),
+  ('_collections_abc',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_collections_abc.py',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\heapq.py',
+   'PYMODULE'),
+  ('functools',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\functools.py',
+   'PYMODULE'),
+  ('weakref',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\weakref.py',
+   'PYMODULE'),
+  ('copyreg',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copyreg.py',
+   'PYMODULE'),
+  ('locale',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\locale.py',
+   'PYMODULE'),
+  ('collections',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\collections\\__init__.py',
+   'PYMODULE'),
+  ('sre_compile',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_compile.py',
+   'PYMODULE'),
+  ('reprlib',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\reprlib.py',
+   'PYMODULE'),
+  ('_weakrefset',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_weakrefset.py',
+   'PYMODULE'),
+  ('abc',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\abc.py',
+   'PYMODULE'),
+  ('operator',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\operator.py',
+   'PYMODULE'),
+  ('linecache',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\linecache.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\genericpath.py',
+   'PYMODULE'),
+  ('re._parser',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_parser.py',
+   'PYMODULE'),
+  ('re._constants',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_constants.py',
+   'PYMODULE'),
+  ('re._compiler',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_compiler.py',
+   'PYMODULE'),
+  ('re._casefix',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_casefix.py',
+   'PYMODULE'),
+  ('re',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\__init__.py',
+   'PYMODULE'),
+  ('sre_parse',
+   'C:\\Users\\JAMES R '
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_parse.py',
    'PYMODULE'),
   ('encodings.zlib_codec',
    'C:\\Users\\JAMES R '
@@ -3472,125 +3574,29 @@
    'C:\\Users\\JAMES R '
    'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\__init__.py',
    'PYMODULE'),
-  ('linecache',
+  ('sre_constants',
    'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\linecache.py',
-   'PYMODULE'),
-  ('sre_compile',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_compile.py',
-   'PYMODULE'),
-  ('collections',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\collections\\__init__.py',
-   'PYMODULE'),
-  ('re._parser',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_parser.py',
-   'PYMODULE'),
-  ('re._constants',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_constants.py',
-   'PYMODULE'),
-  ('re._compiler',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_compiler.py',
-   'PYMODULE'),
-  ('re._casefix',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_casefix.py',
-   'PYMODULE'),
-  ('re',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\__init__.py',
-   'PYMODULE'),
-  ('sre_parse',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_parse.py',
-   'PYMODULE'),
-  ('_collections_abc',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_collections_abc.py',
-   'PYMODULE'),
-  ('enum',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\enum.py',
-   'PYMODULE'),
-  ('posixpath',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\posixpath.py',
-   'PYMODULE'),
-  ('operator',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\operator.py',
-   'PYMODULE'),
-  ('reprlib',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\reprlib.py',
-   'PYMODULE'),
-  ('weakref',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\weakref.py',
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_constants.py',
    'PYMODULE'),
   ('keyword',
    'C:\\Users\\JAMES R '
    'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\keyword.py',
    'PYMODULE'),
-  ('copyreg',
+  ('ntpath',
    'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copyreg.py',
-   'PYMODULE'),
-  ('genericpath',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\genericpath.py',
-   'PYMODULE'),
-  ('locale',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\locale.py',
-   'PYMODULE'),
-  ('heapq',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\heapq.py',
-   'PYMODULE'),
-  ('io',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\io.py',
-   'PYMODULE'),
-  ('functools',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\functools.py',
-   'PYMODULE'),
-  ('abc',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\abc.py',
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ntpath.py',
    'PYMODULE'),
   ('codecs',
    'C:\\Users\\JAMES R '
    'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\codecs.py',
    'PYMODULE'),
-  ('_weakrefset',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_weakrefset.py',
-   'PYMODULE'),
-  ('traceback',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\traceback.py',
-   'PYMODULE'),
-  ('sre_constants',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_constants.py',
-   'PYMODULE'),
-  ('ntpath',
-   'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ntpath.py',
-   'PYMODULE'),
   ('types',
    'C:\\Users\\JAMES R '
    'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\types.py',
    'PYMODULE'),
-  ('warnings',
+  ('traceback',
    'C:\\Users\\JAMES R '
-   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\warnings.py',
+   'JACOB\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\traceback.py',
    'PYMODULE'),
   ('os',
    'C:\\Users\\JAMES R '
