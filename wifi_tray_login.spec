@@ -5,7 +5,7 @@ a = Analysis(
     ['wifi_tray_login.py'],
     pathex=[],
     binaries=[],
-    datas=[('wifi_icon.ico', '.')],
+    datas=[('wifi_icon.ico', '.'), ('ssl_ca_kengeri.pem', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
